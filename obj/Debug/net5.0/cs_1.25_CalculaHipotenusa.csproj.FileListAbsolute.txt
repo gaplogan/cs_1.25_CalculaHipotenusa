@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.25_CalculaHipotenusa\bin\Debug\net5.0\cs_1.25_CalculaHipotenusa.exe
+E:\GitHub\cs_1.25_CalculaHipotenusa\bin\Debug\net5.0\cs_1.25_CalculaHipotenusa.deps.json
+E:\GitHub\cs_1.25_CalculaHipotenusa\bin\Debug\net5.0\cs_1.25_CalculaHipotenusa.runtimeconfig.json
+E:\GitHub\cs_1.25_CalculaHipotenusa\bin\Debug\net5.0\cs_1.25_CalculaHipotenusa.runtimeconfig.dev.json
+E:\GitHub\cs_1.25_CalculaHipotenusa\bin\Debug\net5.0\cs_1.25_CalculaHipotenusa.dll
+E:\GitHub\cs_1.25_CalculaHipotenusa\bin\Debug\net5.0\ref\cs_1.25_CalculaHipotenusa.dll
+E:\GitHub\cs_1.25_CalculaHipotenusa\bin\Debug\net5.0\cs_1.25_CalculaHipotenusa.pdb
+E:\GitHub\cs_1.25_CalculaHipotenusa\obj\Debug\net5.0\cs_1.25_CalculaHipotenusa.csprojAssemblyReference.cache
+E:\GitHub\cs_1.25_CalculaHipotenusa\obj\Debug\net5.0\cs_1.25_CalculaHipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.25_CalculaHipotenusa\obj\Debug\net5.0\cs_1.25_CalculaHipotenusa.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.25_CalculaHipotenusa\obj\Debug\net5.0\cs_1.25_CalculaHipotenusa.AssemblyInfo.cs
+E:\GitHub\cs_1.25_CalculaHipotenusa\obj\Debug\net5.0\cs_1.25_CalculaHipotenusa.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.25_CalculaHipotenusa\obj\Debug\net5.0\cs_1.25_CalculaHipotenusa.dll
+E:\GitHub\cs_1.25_CalculaHipotenusa\obj\Debug\net5.0\ref\cs_1.25_CalculaHipotenusa.dll
+E:\GitHub\cs_1.25_CalculaHipotenusa\obj\Debug\net5.0\cs_1.25_CalculaHipotenusa.pdb
+E:\GitHub\cs_1.25_CalculaHipotenusa\obj\Debug\net5.0\cs_1.25_CalculaHipotenusa.genruntimeconfig.cache
